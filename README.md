@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @usaywat
-- 👀 I’m interested in python, zero coding experience
+- 👀 I’m interested in coding and localization
 - 🌱 I’m currently learning how to use github
 - 💞️ I’m looking to create an app for adhders 
-- 📫 How to reach me ...(please don't?)
+- 📫 You can dm me but I can't solve anything technical
 
 <!---
 usaywat/usaywat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
